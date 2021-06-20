@@ -18,6 +18,7 @@
 * [splashpaper](https://github.com/evtn/splashpaper) - менеджер обоев, работающий с фотографиями с https://unsplash.com
 * [flags](https://github.com/evtn/flags) - небольшой сборник флагов в SVG. Пока что далеко не полный.
 * [vk-tweaks](https://github.com/evtn/vk-tweaks) - UserCSS с настройками для vk.com
+* [vk-schemes](https://github.com/evtn/vk-schemes) - цветовые схемы для vk.com
 * [pydomosed](https://github.com/evtn/pydomosed) - модуль для работы с API мини-приложений Домосед и Гонки
 
 ### Архивированные
