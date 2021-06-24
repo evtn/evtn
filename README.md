@@ -15,6 +15,7 @@
 * [chessbyte](https://github.com/evtn/chessbyte) - бинарный формат хранения шахматной позиции и кодировщик/декодировщик на Python.
 * [flux](https://vk.com/fluxbot) - язык программирования (на этапе дизайна и тщательного обдумывания, как назвать очередную встроенную функцию)
 * [tabler](https://github.com/evtn/tabler) - простой модуль для построения текстовых таблиц
+* [firemelon](https://github.com/evtn/firemelon) - простой модуль для генерации простых (но надёжных) паролей
 * [splashpaper](https://github.com/evtn/splashpaper) - менеджер обоев, работающий с фотографиями с https://unsplash.com
 * [flags](https://github.com/evtn/flags) - небольшой сборник флагов в SVG. Пока что далеко не полный.
 * [vk-tweaks](https://github.com/evtn/vk-tweaks) - UserCSS с настройками для vk.com
