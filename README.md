@@ -32,3 +32,11 @@
 * [Telegram](https://t.me/aternative) - и здесь тоже
 * Почта - r@evtn.ru, проверяю в среднем раз в день
 * Изредка пишу в [канал в Telegram](https://t.me/reta_e)
+
+## Статистика
+
+Невероятно ~~бес~~полезные изображения
+
+[![Описание картинки](https://github-readme-stats.vercel.app/api?username=evtn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ещё одно описание картинки](https://github-readme-stats.vercel.app/api/top-langs/?username=evtn&show_icons=true&theme=dark&count_private=true&layout=compact&card_width=445&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
