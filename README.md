@@ -1,5 +1,9 @@
 # Всем привет!
 
+[![Описание картинки](https://github-readme-stats.vercel.app/api?username=evtn&count_private=true&show_icons=true&title_color=68f67b&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ещё одно описание картинки](https://github-readme-stats.vercel.app/api/top-langs/?username=evtn&show_icons=true&title_color=fafafa&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&count_private=true&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
 Мне без малого 20, я человек, живу в холодной Сибири и хочу когда-нибудь перебраться в Эстонию.
 Вот ещё немного разношёрстных фактов обо мне:
 
@@ -36,7 +40,3 @@
 ## Статистика
 
 Невероятно ~~бес~~полезные изображения
-
-[![Описание картинки](https://github-readme-stats.vercel.app/api?username=evtn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ещё одно описание картинки](https://github-readme-stats.vercel.app/api/top-langs/?username=evtn&show_icons=true&theme=dark&count_private=true&layout=compact&card_width=445&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
