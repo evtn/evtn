@@ -2,7 +2,7 @@
 
 [![Описание картинки](https://github-readme-stats.vercel.app/api?username=evtn&count_private=true&show_icons=true&title_color=68f67b&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Мне без малого 20, я человек, живу в холодной Сибири и хочу когда-нибудь перебраться в Эстонию.
+Мне 20, я человек, живу в холодной Сибири и хочу когда-нибудь перебраться в Эстонию.
 Вот ещё немного разношёрстных фактов обо мне:
 
 * Пишу на Python чуть более 3 лет (с начала 2018). Могу рассказать что-то умное или оценить код.
