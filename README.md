@@ -22,6 +22,7 @@
 * [flags](https://github.com/evtn/flags) - небольшой сборник флагов в SVG. Пока что далеко не полный.
 * [vk-schemes](https://github.com/evtn/vk-schemes) - цветовые схемы для vk.com
 * [pydomosed](https://github.com/evtn/pydomosed) - модуль для работы с API мини-приложений Домосед и Гонки
+* [birp](https://github.com/evtn/birp) - большой русский Питон.
 
 ### Архивированные
 * [github_dark](https://github.com/evtn/github-dark) - тёмная тема для GitHub
