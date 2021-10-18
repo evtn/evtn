@@ -28,6 +28,10 @@
 * [github_dark](https://github.com/evtn/github-dark) - тёмная тема для GitHub
 * [vk-tweaks](https://github.com/evtn/vk-tweaks) - UserCSS с настройками для vk.com (встроен в vk-schemes)
 
+### Прочие микроштуки
+* [Что происходит на моей аватарке](https://www.desmos.com/calculator/hnvg0vkk4f)
+* [Мой CodePen](https://codepen.io/evtn)
+
 ## Где меня найти
 
 * Физически - в [Томске](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D1%81%D0%BA)
