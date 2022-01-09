@@ -2,7 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=evtn&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 [![Description](https://github-readme-stats.vercel.app/api?username=evtn&count_private=true&show_icons=true&title_color=68f67b&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[In Russian](https://github.com/evtn/evtn/blob/lord/README.md)
+**[Same in Russian](https://github.com/evtn/evtn/blob/lord/README.md)**
 
 I'm 20, I'm a person, living in cold and snowy Siberia. Someday I want to move to Estonia.
 Here's some random facts about me:
