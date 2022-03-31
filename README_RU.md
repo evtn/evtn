@@ -1,5 +1,5 @@
 # Очень смешной заголовок вместо прошлого (несмешного)
-[![trophy](https://github-profile-trophy.vercel.app/?username=evtn&theme=darkhub&no-frame=true&title=Organizations,Stars,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Описание картинки](https://github-readme-stats.vercel.app/api?username=evtn&count_private=true&show_icons=true&title_color=68f67b&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Мне 20, я человек, живу в холодной Сибири и хочу когда-нибудь перебраться в Эстонию.
@@ -36,7 +36,7 @@
 ## Где меня найти
 
 * Физически - в [Томске](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D1%81%D0%BA)
-* [ВКонтакте](https://vk.com/id197820576) - обычно отвечаю довольно быстро
-* [Telegram](https://t.me/aternative) - и здесь тоже
+* [Telegram](https://t.me/aternative) - здесь отвечаю довольно быстро
+* [ВКонтакте](https://vk.com/id197820576) - обычно отвечаю
 * Почта - j\[at\]evtn.ru, проверяю каждый (ну или почти каждый) день
 * Изредка пишу в [канал в Telegram](https://t.me/reta_e)
