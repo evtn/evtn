@@ -16,7 +16,6 @@ Here's some random facts about me:
 * [soda](https://github.com/evtn/soda) - fast SVG (or generally XML) generation in Python.
 * [matlog](https://github.com/evtn/matlog) - boolean algebra solver, simplifier, and other (-er)s.
 * [chessbyte](https://github.com/evtn/chessbyte) - FEN-like binary format for chess board and its implementation in Python.
-* [flux](https://vk.com/fluxbot) - my own programming language, barely started designing it.
 * [tabler](https://github.com/evtn/tabler) - text table generation (also in Python).
 * [firemelon](https://github.com/evtn/firemelon) - readable (but strong) passwords generator.
 * [splashpaper](https://github.com/evtn/splashpaper) - wallpaper manager for https://unsplash.com.
