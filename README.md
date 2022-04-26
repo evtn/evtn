@@ -1,8 +1,10 @@
 # Very funny heading (previous was not funny, yes)
 
+**I'm currently looking for a job as Frontend Developer (React, TypeScript), [here is my CV](https://evtn.ru/cv)**
+
 [![Description](https://github-readme-stats.vercel.app/api?username=evtn&count_private=true&show_icons=true&title_color=97c0f1&bg_color=171f29&hide_border=true&icon_color=f3fef4&text_color=f3fef4&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm 20, I'm a person, living in cold and snowy Siberia. Someday I want to move to Estonia.    
+I'm 20, I'm a person, living in ~~cold and snowy Siberia~~ Tbilisi, Georgia. Someday I want to move to Estonia.    
 Here's some random facts about me:
 
 * Writing Python code for 4 years (since early 2018).
@@ -34,7 +36,7 @@ Here's some random facts about me:
 
 ## Where you can find me
 
-* In real world - in [Tomsk](https://en.wikipedia.org/wiki/Tomsk)
+* In real world - in [Tbilisi](https://en.wikipedia.org/wiki/Tbilisi)
 * [Telegram](https://t.me/aternative) - responding fast
 * [VK](https://vk.com/id197820576) - will respond at some point
 * E-mail - j\[at\]evtn.ru, can answer within 1-2 days
