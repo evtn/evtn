@@ -2,8 +2,6 @@
 
 **I'm currently looking for a job as Frontend Developer (React, TypeScript), [here is my CV](https://evtn.ru/cv)**
 
-[![Description](https://github-readme-stats.vercel.app/api?username=evtn&count_private=true&show_icons=true&title_color=97c0f1&bg_color=171f29&hide_border=true&icon_color=f3fef4&text_color=f3fef4&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm 20, I'm a person, living in ~~cold and snowy Siberia~~ Tbilisi, Georgia. Someday I want to move to Estonia.    
 Here's some random facts about me:
 
