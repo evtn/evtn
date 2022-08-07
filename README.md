@@ -14,6 +14,7 @@ Here's some random facts about me:
 ## Projects
 
 * [soda](https://github.com/evtn/soda) - fast SVG (or generally XML) generation in Python.
+* [rgx](https://github.com/evtn/rgx) - regular expression builder
 * [matlog](https://github.com/evtn/matlog) - boolean algebra solver, simplifier, and other (-er)s.
 * [chessbyte](https://github.com/evtn/chessbyte) - FEN-like binary format for chess board and its implementation in Python.
 * [tabler](https://github.com/evtn/tabler) - text table generation (also in Python).
