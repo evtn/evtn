@@ -2,7 +2,7 @@
 
 **Frontend Developer (React, TypeScript), [here is my CV](https://evtn.ru/cv)**
 
-I'm 20, I'm a person, living in ~~cold and snowy Siberia~~ Tbilisi, Georgia. Someday I want to move to Estonia.    
+I'm 21, I'm a person, living in ~~cold and snowy Siberia~~ Tbilisi, Georgia. Someday I want to move to Estonia.    
 Here's some random facts about me:
 
 * Writing Python code for 4 years (since early 2018).
