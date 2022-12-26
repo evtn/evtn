@@ -18,7 +18,7 @@ Here's some random facts about me:
 * [`courage-tci` organization](https://github.com/courage-tci/)
     * [gekkota](https://github.com/courage-tci/gekkota) - extensible Python code generation module
     * [lark_dynamic](https://github.com/courage-tci/lark_dynamic) - grammar builder for [lark](https://github.com/lark-parser/lark) parsing toolkit
-    * [gardener](https://github.com/courage-tci/gardener) - hook-based tree manipulation in Python (work in progress)
+    * [gardener](https://github.com/courage-tci/gardener) - hook-based tree manipulation in Python
 
 ### Projects for other services
 
