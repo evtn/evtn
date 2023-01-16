@@ -1,7 +1,5 @@
 # Very funny heading (previous was not funny, yes)
 
-**Frontend Developer (React, TypeScript), [here is my CV](https://evtn.me/cv)**
-
 I'm 21, I'm a person, living in ~~cold and snowy Siberia~~ Tbilisi, Georgia.    
 Here's some random facts about me:
 
