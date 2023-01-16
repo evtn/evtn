@@ -31,7 +31,6 @@ Here's some random facts about me:
 * [chessbyte](https://github.com/evtn/chessbyte) - FEN-like binary format for chess board and its implementation in Python.
 * [tabler](https://github.com/evtn/tabler) - text table generation (also in Python).
 * [firemelon](https://github.com/evtn/firemelon) - password generator that gives you readable passwords.
-* [flags](https://github.com/evtn/flags) - small and unfinished SVG flag set. 
 * [birp](https://github.com/evtn/birp) - Big Russian Python (that's obviously a joke, yes).
 * [newyear](https://github.com/evtn/newyear-countdown) - A [website](https://newyear.evtn.me) with a countdown to New Year (so original and creative)
 
