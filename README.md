@@ -25,6 +25,7 @@ Here's some random facts about me:
 
 ### Some small stuff / experiments
 
+* [wtfl](https://github.com/evtn/wtfl) - Well-Designed Text-based Friendly Language
 * [matlog](https://github.com/evtn/matlog) - boolean algebra solver, simplifier, and other (-er)s.
 * [chessbyte](https://github.com/evtn/chessbyte) - FEN-like binary format for chess board and its implementation in Python.
 * [tabler](https://github.com/evtn/tabler) - text table generation (also in Python).
