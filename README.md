@@ -13,6 +13,7 @@ Here's some random facts about me:
 ### Libraries
 * [soda](https://github.com/evtn/soda) - fast SVG (or generally XML) generation in Python.
 * [rgx](https://github.com/evtn/rgx) - regular expression builder
+* [easypoint](https://github.com/evtn/easypoint) - general-purpose vector/matrix module
 * [`courage-tci` organization](https://github.com/courage-tci/)
     * [gekkota](https://github.com/courage-tci/gekkota) - extensible Python code generation module
     * [lark_dynamic](https://github.com/courage-tci/lark_dynamic) - grammar builder for [lark](https://github.com/lark-parser/lark) parsing toolkit
