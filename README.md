@@ -49,5 +49,5 @@ Here's some random facts about me:
 * In real world - in [Tbilisi](https://en.wikipedia.org/wiki/Tbilisi)
 * [Telegram](https://t.me/aternative) - responding fast
 * [VK](https://vk.com/id197820576) - will respond at some point
-* E-mail - j\[at\]evtn.ru, can answer within 1-2 days
+* E-mail - j\[at\]evtn.me, can answer within 1-2 days
 * Sometimes I write something in my [Telegram channel (in Russian)](https://t.me/reta_e)
