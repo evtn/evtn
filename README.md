@@ -10,6 +10,8 @@ Here's some random facts about me:
 
 ## Projects
 
+**[My website / CV](https://evtn.me)**
+
 ### Libraries
 * [soda](https://github.com/evtn/soda) - fast SVG (or generally XML) generation in Python.
 * [rgx](https://github.com/evtn/rgx) - regular expression builder
