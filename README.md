@@ -22,18 +22,18 @@ Here's some random facts about me:
     * [lark_dynamic](https://github.com/courage-tci/lark_dynamic) - grammar builder for [lark](https://github.com/lark-parser/lark) parsing toolkit
     * [gardener](https://github.com/courage-tci/gardener) - hook-based tree manipulation in Python
 
-### Projects for other services
+### Extensions / Tools
 
 * [vk-schemes](https://github.com/evtn/vk-schemes) - themes for vk.com
 * [splashpaper](https://github.com/evtn/splashpaper) - wallpaper manager for https://unsplash.com.
+* [firemelon](https://github.com/evtn/firemelon) - password generator that gives you readable passwords.
+* [matlog](https://github.com/evtn/matlog) - boolean algebra solver, simplifier, and other (-er)s.
 
 ### Some small stuff / experiments
 
 * [wtfl](https://github.com/evtn/wtfl) - Well-Designed Text-based Friendly Language
-* [matlog](https://github.com/evtn/matlog) - boolean algebra solver, simplifier, and other (-er)s.
 * [chessbyte](https://github.com/evtn/chessbyte) - FEN-like binary format for chess board and its implementation in Python.
 * [tabler](https://github.com/evtn/tabler) - text table generation (also in Python).
-* [firemelon](https://github.com/evtn/firemelon) - password generator that gives you readable passwords.
 * [birp](https://github.com/evtn/birp) - Big Russian Python (that's obviously a joke, yes).
 * [newyear](https://github.com/evtn/newyear-countdown) - A [website](https://newyear.evtn.me) with a countdown to New Year (so original and creative)
 
