@@ -13,6 +13,7 @@ Here's some random facts about me:
 **[My website / CV](https://evtn.me)**
 
 ### Libraries
+* [wordstreamer](https://github.com/evtn/wordstreamer) - tiny generic text-generation module
 * [soda](https://github.com/evtn/soda) - fast SVG (or generally XML) generation in Python.
 * [rgx](https://github.com/evtn/rgx) - regular expression builder
 * [easypoint](https://github.com/evtn/easypoint) - general-purpose vector/matrix module
