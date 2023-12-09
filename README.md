@@ -45,7 +45,8 @@ Here's some random facts about me:
 
 ### Some other non-Github stuff
 
-* [Star from my avatar as a graph](https://www.desmos.com/calculator/hnvg0vkk4f)
+* [(old) Star from my avatar as a graph](https://www.desmos.com/calculator/hnvg0vkk4f)
+* [I have a new star logo now!](https://telegra.ph/Refreshing-the-star-logo-12-09)
 * [My CodePen](https://codepen.io/evtn)
 
 ## Where you can find me
